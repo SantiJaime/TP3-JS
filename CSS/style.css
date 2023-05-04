@@ -1,0 +1,6 @@
+table, td{
+    border: 2px solid blue;
+}
+td{
+    padding: 5px;
+}
